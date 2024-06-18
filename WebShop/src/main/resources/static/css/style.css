@@ -1,0 +1,127 @@
+@charset "utf-8";
+
+.bg-fullscreen1 {
+  background-image: url('/image/index/bg1.jpg');
+  /* Đường dẫn đến ảnh của bạn */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  /* Chiều cao bằng 100% chiều cao của viewport */
+  width: 100%;
+  /* Chiều rộng bằng 100% chiều rộng của viewport */
+  position: relative;
+}
+
+.custom-div1 {
+  position: absolute;
+  top: 40px;
+  padding: 20px;
+}
+
+.bg-fullscreen2 {
+  background-image: url('/image/index/bg2.jpg');
+  /* Đường dẫn đến ảnh của bạn */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  /* Chiều cao bằng 100% chiều cao của viewport */
+  width: 100%;
+  /* Chiều rộng bằng 100% chiều rộng của viewport */
+  position: relative;
+  margin-top: 10px;
+}
+
+
+.bg-fullscreen3 {
+  background-image: url('/image/index/bg3.jpg');
+  /* Đường dẫn đến ảnh của bạn */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  /* Chiều cao bằng 100% chiều cao của viewport */
+  width: 100%;
+  /* Chiều rộng bằng 100% chiều rộng của viewport */
+  position: relative;
+  margin-top: 10px;
+}
+
+.bg-fullscreen4{
+  background-image: url('/image/index/macprobg.jpg');
+  /* Đường dẫn đến ảnh của bạn */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  /* Chiều cao bằng 100% chiều cao của viewport */
+  width: 100%;
+  /* Chiều rộng bằng 100% chiều rộng của viewport */
+  position: relative;
+}
+
+.bg-fullscreen5{
+  background-image: url('/image/index/macairbg.jpg');
+  /* Đường dẫn đến ảnh của bạn */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  /* Chiều cao bằng 100% chiều cao của viewport */
+  width: 100%;
+  /* Chiều rộng bằng 100% chiều rộng của viewport */
+  position: relative;
+}
+
+img {
+  background-size: cover;
+}
+.left-half2 {
+  background-image: url('/image/index/macairbg.jpg'); /* Đường dẫn đến ảnh nền bên trái */
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  position: relative;
+  
+}
+.right-half2 {
+  background-image: url('/image/index/apw2.jpg'); /* Đường dẫn đến ảnh nền bên trái */
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  position: relative;
+}
+.left-half3 {
+  background-image: url('/image/index/macprobg.jpg'); /* Đường dẫn đến ảnh nền bên trái */
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  position: relative;
+  
+}
+.right-half3 {
+  background-image: url('/image/index/airpodbg.jpg'); /* Đường dẫn đến ảnh nền bên trái */
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  position: relative;
+}
+.left-half1 {
+  background-image: url('/image/index/ip15bg.jpg'); /* Đường dẫn đến ảnh nền bên trái */
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  position: relative;
+  
+}
+.right-half1 {
+  background-image: url('/image/index/apw.jpg'); /* Đường dẫn đến ảnh nền bên trái */
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  position: relative;
+}
+
+
+
