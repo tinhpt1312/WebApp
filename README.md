@@ -9,6 +9,6 @@
       + Database: SQL Server
 ----------------------------------------------
 Image: 
-  - Home page: https://github.com/tinhpt1312/WebApp/issues/1#issue-2368382648
+  - Home page: [https://github.com/tinhpt1312/WebApp/issues/1#issue-2368382648](https://imgur.com/a/home-page-U4KwZTh?third_party=1)
   - Cart page: https://github.com/tinhpt1312/WebApp/issues/1#issuecomment-2184758745
   - Admin page: https://github.com/tinhpt1312/WebApp/issues/1#issuecomment-2184763266
